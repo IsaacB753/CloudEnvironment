@@ -1,0 +1,3 @@
+This is a diagram showing how I set up my secure cloud enviornment for a project from my Cybersecurity bootcamp
+
+This enviornment is able to securly run containers using docker and use ansible to provison a fully functioning ELK stack
